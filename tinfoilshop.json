@@ -1,4 +1,9 @@
 {
-    "locations": ["https://drive.google.com/drive/folders/1QcEPNaI7Cw33mF3PLyzMMvUMXYx6_bz4?usp=sharing"],
-    "success": "Bem Vindos ao Shop Privado"
+"locations" :
+[
+"0" :
+"https://drive.google.com/drive/folders/1e6RVmSmolRmL7Kdc7DT9sSJ80xM8vrYC?usp=sharing"
+],
+"success" :
+"Bem Vindos ao Shop Privado"
 }
